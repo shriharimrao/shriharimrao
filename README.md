@@ -10,7 +10,7 @@ I'm Shrihari M Rao, and I'm currently immersed in a Django project, crafting rob
 
 - 💬 **Ask Me About:** Anything related to Django, Machine Learning, or Artificial Intelligence. I'm always up for sharing knowledge and experiences!
 
-- 📫 **How to Reach Me:** Feel free to drop me a message on [LinkedIn](your_linkedin_profile) or [Twitter](your_twitter_profile). I'm open to connecting with fellow developers, researchers, and anyone passionate about tech!
+- 📫 **How to Reach Me:** Feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/shriharimrao/). I'm open to connecting with fellow developers, researchers, and anyone passionate about tech!
 
 - 😄 **Pronouns:** He/Him
 
